@@ -2,4 +2,4 @@
 
 A demonstration of Gitflow Workflow for Team BBY32.
 
-Created a nav bar.
+Created a footer.
