@@ -4,3 +4,5 @@ A demonstration of Gitflow Workflow for Team BBY32.
 
 Delson edited here
 
+Kemp edited the readme, again.
+Created a navigation bar
