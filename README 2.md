@@ -2,6 +2,4 @@
 
 A demonstration of Gitflow Workflow for Team BBY32.
 
-Delson edited here
-
-nav edited her
+Nav created this readme
